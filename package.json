@@ -1,0 +1,22 @@
+{
+  "name": "nododiplo-m3-s2-tp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianGodoy81/NodoDiplo-M3-S2-TP2.git"
+  },
+  "author": "Cristian Godoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianGodoy81/NodoDiplo-M3-S2-TP2/issues"
+  },
+  "homepage": "https://github.com/CristianGodoy81/NodoDiplo-M3-S2-TP2#readme",
+  "dependencies": {
+    "mongoose": "^8.18.3"
+  }
+}
